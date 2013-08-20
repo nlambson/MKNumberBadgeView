@@ -1,6 +1,5 @@
 //
 //  MKNumberBadgeView.m
-//  MKNumberBadgeView
 //
 // Copyright 2009 Michael F. Kamprath
 // michael@claireware.com
